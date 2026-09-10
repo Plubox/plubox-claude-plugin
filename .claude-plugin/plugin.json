@@ -1,0 +1,22 @@
+{
+  "name": "plubox",
+  "version": "1.0.0",
+  "description": "Manage rental operations in Plubox: organizations, bookings and payments, schedules, nightly and long-term prices, market analytics, expenses, utility payments, tasks, cleanings, and statistics via a remote OAuth-protected MCP server.",
+  "author": {
+    "name": "Plubox",
+    "email": "office@plubox.com",
+    "url": "https://plubox.com"
+  },
+  "homepage": "https://plubox.com",
+  "repository": "https://github.com/Sebarkar/plubox-claude-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "mcp",
+    "plubox",
+    "rental",
+    "property-management",
+    "bookings",
+    "hospitality",
+    "channel-manager"
+  ]
+}

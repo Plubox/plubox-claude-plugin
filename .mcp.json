@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "plubox": {
+      "type": "http",
+      "url": "https://control.plubox.com/mcp/plubox"
+    }
+  }
+}
