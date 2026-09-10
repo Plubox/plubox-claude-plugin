@@ -31,7 +31,7 @@ Or straight from this repository while it is not yet listed:
 
 ```
 /plugin marketplace add Sebarkar/plubox-claude-plugin
-/plugin install plubox
+/plugin install plubox@plubox
 ```
 
 Without the plugin system, the same server can be added directly:

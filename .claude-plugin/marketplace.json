@@ -1,0 +1,26 @@
+{
+  "name": "plubox",
+  "owner": {
+    "name": "Plubox",
+    "email": "office@plubox.com"
+  },
+  "metadata": {
+    "description": "Plubox plugins for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "plubox",
+      "source": "./",
+      "description": "Manage rental operations in Plubox through its remote OAuth-protected MCP server.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Plubox",
+        "email": "office@plubox.com"
+      },
+      "homepage": "https://plubox.com",
+      "license": "Apache-2.0",
+      "keywords": ["mcp", "plubox", "rental", "property-management", "bookings"],
+      "category": "productivity"
+    }
+  ]
+}
